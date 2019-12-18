@@ -1,4 +1,4 @@
-"# Opencart Ecommerce installed Project" 
+"# Opencart Ecommerce installed Project with Database" 
 
 - After clone the Repo you just need to do following steps
 
